@@ -187,6 +187,12 @@ __PACKAGE__->meta->make_immutable;
 Thanks L<Reask Limited|http://reask.com/> for funding the development of this
 module.
 
+=begin Pod::Coverage
+
+  BUILD
+
+=end Pod::Coverage
+
 =cut
 
 1;
