@@ -1,0 +1,4 @@
+.*
+!.gitignore
+Catalyst-Authentication-Credential-Facebook-OAuth2-*
+Debian_CPANTS.txt
