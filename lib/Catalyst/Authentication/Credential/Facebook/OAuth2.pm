@@ -178,6 +178,9 @@ __PACKAGE__->meta->make_immutable;
 Thanks L<Reask Limited|http://reask.com/> for funding the development of this
 module.
 
+Thanks L<Shutterstock|http://shutterstock.com/> for funding bugfixing of and
+enhancements to this module.
+
 =begin Pod::Coverage
 
   BUILD
